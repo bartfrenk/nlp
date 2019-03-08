@@ -12,6 +12,6 @@ help: ## Show this help
 
 repl: ## Run the sentence embedding REPL
 repl:
-	python src/repl.py
+	python src/cluster/repl.py
 
 ##
